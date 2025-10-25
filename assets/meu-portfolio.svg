@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="28">
+  <rect width="100%" height="100%" rx="4" ry="4" fill="none" stroke="#69C84C" stroke-width="1"/>
+  <text x="50%" y="50%" fill="#69C84C" font-family="monospace" font-weight="600" font-size="16" text-anchor="middle" dominant-baseline="middle">
+    Meu Portfólio
+  </text>
+</svg>
